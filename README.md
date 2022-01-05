@@ -2,4 +2,4 @@
 This project is responsible for getting any 3D models cut by 2D line.
 This has been developed in C++ (Visual Studio 2017) and as a third-party library, ASSIMP has been used.
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/oU6EO3HiLcg)]
+[![IMAGE ALT TEXT](https://image.youtu.be/oU6EO3HiLcg/0.jpg)](https://youtu.be/oU6EO3HiLcg "3D Math in C++")
